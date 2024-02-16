@@ -30,6 +30,10 @@ body {
   line-height: 1.5;
   font-size: 16px;
   background: hsl(30, 54%, 90%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Outfit", sans-serif;
 }
 
 /* A elements that don't have a class get default styles */
@@ -70,13 +74,6 @@ select {
 
 /* UTILITY CLASSES */
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: "Outfit", sans-serif;
-}
-
 .container {
   width: 60%;
   max-width: 1440px;
@@ -98,7 +95,7 @@ img {
 
 h1,
 h2 {
-  margin: 0.5em 0;
+  margin: 0.3em 0;
   font-family: "Young Serif", serif;
 }
 
@@ -150,11 +147,21 @@ hr {
 
 @media (max-width: 768px) {
   .container {
-    width: 90%;
-    max-width: 375px;
+    width: 100%;
+    /* max-width: 375px; */
+    padding: 0;
+    margin: 0;
   }
 
   body {
-    background: lime;
+    font-size: 18px;
+  }
+
+  img {
+    border-radius: 0;
+  }
+
+  div {
+    padding: 2em;
   }
 }
