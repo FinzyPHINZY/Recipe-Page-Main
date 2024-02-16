@@ -33,6 +33,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: hsl(30, 10%, 34%);
   font-family: "Outfit", sans-serif;
 }
 
@@ -143,6 +144,27 @@ li {
 
 hr {
   margin-top: 2em;
+}
+
+/* TABLE */
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+tr {
+  border-bottom: 1px solid hsl(24, 5%, 18%);
+}
+
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  /* background-color: #dddddd; */
 }
 
 @media (max-width: 768px) {
