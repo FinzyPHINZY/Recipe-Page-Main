@@ -2,28 +2,6 @@
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
 - Solution URL: [Repository](https://github.com/FinzyPHINZY/Recipe-Page-Main/)
@@ -42,7 +20,6 @@ Learning to increase the weight and font size of list markers was an insightful 
 Additionally, mastering the adjustment of spacing between list markers and text content proved to be a valuable skill. By employing the `margin` properties, particularly `margin-left`, I effectively created breathing room between the marker and the accompanying text, optimizing visual balance and clarity.
 
 Through hands-on practice and iterative refinement, I gained a deeper appreciation for the nuances of CSS styling. The process not only empowered me to elevate the presentation of my recipe page but also fostered a deeper understanding of the versatility and flexibility inherent in CSS styling techniques.
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ### Useful resources
 
